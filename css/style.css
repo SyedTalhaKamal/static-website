@@ -1,0 +1,137 @@
+/* logo */
+#logo{
+width: 10%;
+height: auto;
+}
+.logo-background{
+background-color: black;
+}
+/* Menu */
+
+.menu-btn{
+color: white;
+border: none;
+background-color: black;
+margin: 8% 0%;
+width: 100%;
+}
+.menu-btn:hover{
+background-color: blue;
+}
+.menu-btn:active{
+background-color: blue;
+}
+/* Banner */
+#banner{
+height: 90%;
+width: 100%;
+}
+/* Welcome */
+.welcome{
+text-align: center;
+margin-bottom: 3%;
+}
+/* Activities */
+.activities{
+text-align: center;
+margin: 3% 0%;
+}
+#activity-text{
+background-color: black;
+color: white;
+}
+/* Why */
+.choose{
+text-align: center;
+margin: 3% 0%;
+}
+/* Video */
+.section {
+position: relative;
+width: 100%;
+height: 500px;
+display: flex;
+align-items: center;
+justify-content: center;
+overflow: hidden;
+} 
+.section h1 {
+text-align: center;
+font-size: 6rem;
+font-family: "Cookie";
+padding: 20px;
+margin: 15px;
+z-index: 1;
+opacity: 0.7;
+color: white;
+}
+.video-container {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+}  
+.color-overlay {
+position: absolute;
+top: 0;
+left: 0;
+background-color: black;
+width: 100%;
+height: 500px;
+opacity: 0.5;
+}
+#background-video{
+margin-bottom: 2%; 
+}
+/* Top button */
+#top-btn{
+background: black;
+color: white;
+margin-left: 95%;
+}
+/* Footer */
+#footer-text{
+background-color: black;
+color: white;
+margin-top: 3%;
+}  
+#copy{
+padding: 2% 0%;
+}
+/* About Page */
+#about{
+text-align: center;
+}
+#content-margin{
+margin-top: 3%;
+}
+#teacher{
+text-align: center;
+margin-top:3%;
+color:black; 
+}
+.teacher{
+background-color: black;
+color: white;
+}
+#sir{
+width: 100%;
+}
+/* Contact Page */
+.maps{
+margin-top: 3%;
+
+}
+.contact-form{
+background-color: black;
+color: white;
+margin: 0.7% 0%;
+width: 50%;
+border-radius: 25px;
+border: none;
+padding: 0.3% 0% 0.3% 0.6%;
+}
+#form{
+text-align: center;
+margin-top: 3%;
+}
